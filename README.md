@@ -15,3 +15,7 @@ Second, You will also want to change the database password to match, located in 
 
 If I polish up this code, I will 100000% randomize that database password. But I'm too lazy right now. 
 
+## Installation
+If you are not familiar with how to use Chef, this tool may not be for you. But if you would like to 
+learn how to use Chef, [I have a teaching tutorial series I made](https://blog.littleseneca.com/2020/11/16/operational-tutorial-chef-infra-part-1/), which will help. 
+
